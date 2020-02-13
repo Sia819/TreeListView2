@@ -20,3 +20,5 @@ TreeListView2 는 TreeListView2.xaml.cs 에서 29줄에서 현재 유저컨트�
 그리고 당연히도 TreeListView2.xaml에서는
 모든 바인딩의 {Binding sc.SubItems} 이런식으로 sc.* 을 추가했습니다.
 
+
+TreeListView1 에서 TreeListView2 형식으로 넘어가고싶습니다.
