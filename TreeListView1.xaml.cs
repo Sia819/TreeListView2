@@ -20,13 +20,11 @@ namespace TestProject_WPF
     /// </summary>
     public partial class TreeListView1 : UserControl
     {
-        public myScheduleItem sc { get; set; }
         public TreeListView1()
         {
             InitializeComponent();
-            #region TreeView Schedule Data
+
             // Sample data
-            //this.TreeViewListItems.DataContext = 
             this.DataContext = 
             new myScheduleItem
             {
@@ -97,7 +95,7 @@ namespace TestProject_WPF
                     },
                 },
             };
-            #endregion
+
         }
     }
 

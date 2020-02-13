@@ -24,9 +24,8 @@ namespace TestProject_WPF
         public TreeListView2()
         {
             InitializeComponent();
-            #region TreeView Schedule Data
+
             // Sample data
-            //this.TreeViewListItems.DataContext = 
             this.DataContext = this;
             sc =
             new myScheduleItem
@@ -98,7 +97,7 @@ namespace TestProject_WPF
                     },
                 },
             };
-            #endregion
+
         }
     }
 
