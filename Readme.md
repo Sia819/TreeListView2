@@ -1,3 +1,8 @@
+[프레젠테이션이 아닌 질문용 문서입니다, 완벽하지않은 문서이므로 TreeListView를 구현한 프로젝트를 찾으시려면 다른 깃허브를 찾아주세요.]
+[Not a Presentation git, only my Question Docs. if you finding TreeListView, finding another git plz]
+
+
+
 TreeListView1을 빌드하면 재대로 바인드가 되지만,
 TreeListView2를 빌드하면 바인드가 재대로 안됩니다...
 
